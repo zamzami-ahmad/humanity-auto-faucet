@@ -7,7 +7,6 @@ url = "https://faucet.testnet.humanity.org/api/claim"
 # Headers untuk request
 headers = {
     "Host": "faucet.testnet.humanity.org",
-    "Cookie": "_ga_L8M0X9GC83=GS1.1.1737654982.1.1.1737655132.0.0.0; _ga=GA1.1.1412965588.1737654982; _ga_1CH0N1F8LL=GS1.1.1737654982.1.1.1737655132.0.0.0; _lfa=LF1.1.8d9012dc47919afe.1737654982901; _ga_QLK92ZLL2G=GS1.1.1737655132.1.1.1737655135.0.0.0",
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",
     "Accept": "*/*",
     "Accept-Language": "en-US,en;q=0.5",

@@ -34,4 +34,4 @@ while True:
         print(f"Error occurred: {e}")
 
     # Tunggu 1 menit 5 detik sebelum mengirim request berikutnya
-    time.sleep(10)
+    time.sleep(60)
